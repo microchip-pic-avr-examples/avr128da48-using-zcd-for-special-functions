@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ZCD_FrequencyDetection", "ZCD_FrequencyDetection\ZCD_FrequencyDetection.cproj", "{91E1A22C-5980-4ABF-ABF3-F9BBD12E0C3D}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ZCD_ActiveBridge", "ZCD_ActiveBridge\ZCD_ActiveBridge.cproj", "{5FFF1A9C-CC56-487C-B3D1-9FBF5E8191DC}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ZCD_FreeRunning", "ZCD_FreeRunning\ZCD_FreeRunning.cproj", "{7C681A8B-0FC9-43F3-826A-4A63E7705AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E1A22C-5980-4ABF-ABF3-F9BBD12E0C3D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{91E1A22C-5980-4ABF-ABF3-F9BBD12E0C3D}.Debug|AVR.Build.0 = Debug|AVR
+		{91E1A22C-5980-4ABF-ABF3-F9BBD12E0C3D}.Release|AVR.ActiveCfg = Release|AVR
+		{91E1A22C-5980-4ABF-ABF3-F9BBD12E0C3D}.Release|AVR.Build.0 = Release|AVR
+		{5FFF1A9C-CC56-487C-B3D1-9FBF5E8191DC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5FFF1A9C-CC56-487C-B3D1-9FBF5E8191DC}.Debug|AVR.Build.0 = Debug|AVR
+		{5FFF1A9C-CC56-487C-B3D1-9FBF5E8191DC}.Release|AVR.ActiveCfg = Release|AVR
+		{5FFF1A9C-CC56-487C-B3D1-9FBF5E8191DC}.Release|AVR.Build.0 = Release|AVR
+		{7C681A8B-0FC9-43F3-826A-4A63E7705AFC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7C681A8B-0FC9-43F3-826A-4A63E7705AFC}.Debug|AVR.Build.0 = Debug|AVR
+		{7C681A8B-0FC9-43F3-826A-4A63E7705AFC}.Release|AVR.ActiveCfg = Release|AVR
+		{7C681A8B-0FC9-43F3-826A-4A63E7705AFC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
