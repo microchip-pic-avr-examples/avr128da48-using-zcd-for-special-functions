@@ -1,7 +1,7 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
  <article class="markdown-body entry-content p-3 p-md-6" itemprop="This needs to locked down and 'never' changed"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/Microchip.png" alt="MCHP" width="300";"></a></p>
 
-# Generating PWM Signals Using TCD with High-Frequency Input
+# Using ZCD to implement special functions
 
 This repository contains examples of bare metal source code for ZCD as described in [*TB3233 - Using ZCD to Implement Special Functions*](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1001524) document from Microchip. The repository contains an Atmel Studio Solution (*ZCD_EXAMPLES.atsln*) with three projects inside, one project for each illustrated use case.
 
