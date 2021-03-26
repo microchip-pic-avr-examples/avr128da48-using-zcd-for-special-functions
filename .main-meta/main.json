@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.avr128da48-using-zcd-for-special-functions",
         "version": "1.0.3",
-        "displayName": "Using ZCD to implement special functions",
+        "displayName": "Using ZCD to Implement Special Functions",
         "projectName": "avr128da48-using-zcd-for-special-functions",
         "shortDescription": "This repository contains examples of bare metal source code for the Zero Cross Detector (ZCD) as described in TB3233 - Using ZCD to Implement Special Functions document from Microchip.",
         "ide": {
@@ -39,14 +39,16 @@
         "author": "Microchip",
         "subcategories": [
             [
-               "Peripherals", "ZCD"
+               "Peripherals",
+			   "ZCD"
             ]
         ],
         "peripherals": [
             "ZCD"
         ],
         "keywords": [
-            "Active bridge", "frequency detection"
+            "Active Bridge",
+			"Frequency Detection"
         ],
 		"additionalData": {
 			"longDescription": {
